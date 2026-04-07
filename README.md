@@ -1,4 +1,4 @@
-# Software-Quality-Testing-Automation-Project-SQTAT
+# Software-Quality-Testing-Automation-Project-SQTAP
 
 #🧪 Software Quality Testing Project (SQT)
 📌 Project Overview
