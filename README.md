@@ -1,11 +1,11 @@
-# Software-Quality-Testing-Automation-Project-SQTA-
+# Software-Quality-Testing-Automation-Project-SQTAT
 
-🧪 Software Quality Testing Project (SQT)
+#🧪 Software Quality Testing Project (SQT)
 📌 Project Overview
 
 This project demonstrates a complete Software Quality Testing (SQT) process including test planning, test case design, execution, and bug reporting.
 
-🎯 Objectives
+#🎯 Objectives
 Ensure software quality and reliability
 Identify bugs and issues
 Validate system functionality
@@ -14,7 +14,7 @@ Manual Testing
 Functional Testing
 Regression Testing
 Smoke Testing
-📂 Project Structure
+#📂 Project Structure
 Test Plan → Testing strategy and scope
 Test Cases → Detailed test cases
 Test Scenarios → High-level scenarios
@@ -24,9 +24,9 @@ Reports → Final test execution reports
 Excel / Google Sheets
 Jira (optional)
 Browser (Chrome)
-🐞 Bug Reporting Format
+#🐞 Bug Reporting Format
 
-Each bug includes:
+#Each bug includes:
 
 Bug ID
 Description
@@ -34,7 +34,7 @@ Steps to Reproduce
 Expected Result
 Actual Result
 Severity & Priority
-📊 Test Case Format
+#📊 Test Case Format
 Test Case ID
 Test Scenario
 Steps
