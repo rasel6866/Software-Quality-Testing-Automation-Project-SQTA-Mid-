@@ -14,6 +14,7 @@ Manual Testing
 Functional Testing
 Regression Testing
 Smoke Testing
+
 #📂 Project Structure
 Test Plan → Testing strategy and scope
 Test Cases → Detailed test cases
