@@ -1,6 +1,7 @@
 # Software-Quality-Testing-Automation-Project-SQTAP
 
 #🧪 Software Quality Testing Project (SQT)
+
 📌 Project Overview
 This project demonstrates a complete Software Quality Testing (SQT) process including test planning, test case design, execution, and bug reporting.
 #🎯 Objectives
