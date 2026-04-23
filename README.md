@@ -4,7 +4,6 @@
 📌 Project Overview
 
 This project demonstrates a complete Software Quality Testing (SQT) process including test planning, test case design, execution, and bug reporting.
-
 #🎯 Objectives
 Ensure software quality and reliability
 Identify bugs and issues
